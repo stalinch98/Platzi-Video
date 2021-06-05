@@ -4,4 +4,4 @@
 
         	npm install package.json
 		npx json-server --watch initialState.json
-              npm run start
+           npm run start
